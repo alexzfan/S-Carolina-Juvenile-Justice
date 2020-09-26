@@ -1,0 +1,82 @@
+coefs
+exposure
+Charge_Type
+sex
+ethnicity.yth
+refsrc
+off2ref
+nprior
+nprior.Dismissed
+nprior.Diverted
+nprior.Prosecuted
+chdesc.truant
+chdesc.probstatus
+weekend.off
+weekend.ref
+TANF.priormonth
+SNAPgt0.priormonth
+TANF.cumulative
+SNAP.cumulative
+fam0017
+fam0017.mr.pct
+fam0017.hi.pct
+fampov0017.pct
+fampov0017.na.pct
+fampov0017.as.pct
+fampov0017.pi.pct
+fampov0017.mr.pct
+famsingleparent0017.pct
+famsingleparent0017.na.pct
+famsingleparent0017.as.pct
+famsingleparent0017.pi.pct
+famsingleparent0017.ot.pct
+famsingleparent0017.mr.pct
+famsingleparent0017.whnh.pct
+famsingleparent0017.hi.pct
+famhh.married.pct
+famhh.married.na.pct
+famhh.married.as.pct
+famhh.married.pi.pct
+famhh.married.ot.pct
+famhh.married.mr.pct
+famhh.married.whnh.pct
+fam0017noemp.pct
+famincome.avg
+agghhincome
+gini
+pop2599nohs
+pop2599nohs.pct
+fam.mobilehome
+completeplumbing.pct
+`ADHD/ADD`
+Aspergers
+Bipolar
+`Borderline Personality Disorder or traits`
+`Conduct Disorder`
+`Continuum Of Care Client`
+`Depressive Symptoms`
+Dysthymia
+`Educably Mentally Handicapped`
+`Emotionally Handicapped`
+Epileptic
+`IQ Score <65`
+`Learning Disabled`
+`Open DMH Case`
+`Oppositional Defiant`
+Other
+`Psychiatric/Psychological Disabilities`
+`Runaway Behavior`
+`Self-Destructive Behavior`
+`Sex Offender`
+`Speech Impaired`
+`V62.5 - Other Legal Circumstances`
+Anorexia
+`Open DDSN Case`
+`Paranoid Personality Disorder or traits`
+`Visually Handicapped`
+`Placement Problem`
+ethnicity.yth*sex
+ethnicity.yth*refsrc
+ethnicity.yth*nprior
+ethnicity.yth*SNAP.cumulative
+ethnicity.yth*TANF.cumulative
